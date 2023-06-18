@@ -11,3 +11,27 @@
  * Text Domain: pop-up
  * Domain Path: /languages
 */
+
+function res_install(){
+   //Accion al activar el plugin
+   require_once 'activador.php';
+}
+register_activation_hook(__FILE__, 'res_install');
+
+function res_desactivador(){
+
+    //Accion al desactivar el plugin
+
+    flush_rewrite_rules();
+
+}
+register_deactivation_hook(__FILE__, 'res_desactivador');
+
+require_once 'partials/res-menu.php';
+
+
+
+
+
+
+
