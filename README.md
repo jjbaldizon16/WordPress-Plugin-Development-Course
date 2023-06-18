@@ -1,2 +1,2 @@
-# _curso02
- 
+# WordPress Plugin Development Course
+ WordPress Plugin Development Course
