@@ -464,7 +464,7 @@ function function_callback_save_post( $post_id, $post ){
   //Soy una persona Exitosa.
 
 
-  $variable = "Esto es una variable";
+ 
 
 
   
