@@ -16,3 +16,13 @@
    background-color: rgba(253, 253, 253, 0.7);
 
 }
+
+a#btn_crear {
+
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+
+}

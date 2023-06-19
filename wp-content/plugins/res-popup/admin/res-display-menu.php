@@ -106,9 +106,10 @@
 
                         <!--boton crear-->
                         
-                        <a href="" type="button" class="btn btn-primary text-uppercase btn-crear" id="btn_crear">
+                        <a href="" type="button" class="btn btn-primary text-uppercase btn-crear" id="btn_crear" style="">
+                        
                         <span class="dashicons dashicons-plus"></span>  
-
+                        <span style="margin-top: -4px;">Crear</span>
                         </a>   
 
 
