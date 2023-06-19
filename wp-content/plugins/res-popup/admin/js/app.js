@@ -6,6 +6,6 @@ $ = jQuery.noConflict();
 
 $(document).ready(function(){
 
-   alert('Ventana de prueba');
+   
 
 })

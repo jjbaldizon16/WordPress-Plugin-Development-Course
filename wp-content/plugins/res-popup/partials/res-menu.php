@@ -31,7 +31,7 @@
 
      function res_options_menu_popup(){
 
-          echo "Menu de opciones";
+          include plugin_dir_path(__DIR__) . 'admin/res-display-menu.php';
 
      }
 
