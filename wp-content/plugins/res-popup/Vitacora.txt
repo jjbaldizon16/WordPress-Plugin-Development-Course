@@ -1,0 +1,6 @@
+Fecha: 19-06-2023
+
+*******Si funciona el plugin en un servidor remoto pero en localhost no donde
+       hay que desinstalarlo borrarlo y volverlo a instalar y activar para que 
+       vuelva a funcionar como funciona en los servidores remotos o limpiar todo
+       el chache del WordPress del localhost************************************
