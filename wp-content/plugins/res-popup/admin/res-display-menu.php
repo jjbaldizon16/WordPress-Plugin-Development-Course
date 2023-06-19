@@ -64,6 +64,54 @@
 
                        </p>
 
+                        <table class="table" id="tableId">
+
+                          <thead>
+
+                             <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Shortcode</th>
+                                <th scope="col">Opciones</th>
+                                
+
+                             </tr>
+
+                          </thead>
+
+                          <tbody>
+
+                               <tr>
+                                  <th socope="row">pop up 1</th>
+                                  <td>Pop up navidad</td>
+                                   <td>
+
+                                     <a href="" type="button" class="btn btn-outline-info" id="btn_editar">
+                                       <span class="dashicons dashicons-welcome-write-blog"></span>  
+
+                                     </a> 
+                                     <a href="" type="button" class="btn btn-outline-danger" id="btn_eliminar">
+                                       <span class="dashicons dashicons-trash"></span>  
+
+                                     </a> 
+                   
+
+                                   </td>
+                                      
+                               </tr>
+
+                          </tbody>
+                        
+
+                        </table> 
+
+                        <!--boton crear-->
+                        
+                        <a href="" type="button" class="btn btn-primary text-uppercase btn-crear" id="btn_crear">
+                        <span class="dashicons dashicons-plus"></span>  
+
+                        </a>   
+
+
                </div>
 
               </div>
